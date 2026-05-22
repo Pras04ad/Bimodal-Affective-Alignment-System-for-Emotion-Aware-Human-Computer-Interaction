@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+transformers
+opencv-python
+pandas
+numpy
+scikit-learn
+gradio
+pillow
